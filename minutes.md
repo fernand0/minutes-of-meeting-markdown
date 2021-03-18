@@ -1,33 +1,32 @@
 # Meeting Minutes
 ## Meeting Information
-**Meeting Date/Time:** meeting_date, meeting_time  
-**Meeting Purpose:** meeting_purpose  
-**Meeting Location:** meeting_location  
-**Note Taker:** note_taker  
+**Reunión Fecha/Hora:** meeting_date, meeting_time  
+**Objetivos:** meeting_purpose  
+**Lugar Location:** meeting_location  
+**Secretario:** note_taker  
 
-## Attendees
-People who attended:
-- Person A
-- Person B
-- Person C
+## Asistentes
+- Persona A
+- Persona B
+- Persona C
 
 ## Agenda Items
 
-Item | Description
+Asunto | Descripción
 ---- | ----
-Agenda Item 1 | • <br>• <br>• <br>• <br>• 
-Agenda Item 2 | • <br>• <br>• <br>• <br>• 
+Punto 1 | • <br>• <br>• <br>• <br>• 
+Punto 2 | • <br>• <br>• <br>• <br>• 
 
-## Discussion Items
-Item | Who | Notes |
+## Puntos de Discusión
+punto | quién | notas |
 ---- | ---- | ---- |
-item | who | notes |
+punto | quién | notas |
 
 
 ## Action Items
-| Done? | Item | Responsible | Due Date |
+| Hecho? | Punto | Responsable | Fecha |
 | ---- | ---- | ---- | ---- |
-| | item | who | due_date |
+| | punto | quién | fecha |
 
-## Other Notes & Information
-N/A
+## Otras notas y más información 
+N/D
